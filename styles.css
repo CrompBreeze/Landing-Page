@@ -136,7 +136,7 @@ strong {
     align-items: center;
     
 }
-.bannercontent p {
+.bannercontent p, .footer p {
     font-size: 18px;
     color: white;
 }
@@ -148,8 +148,15 @@ strong {
     width: 120px;
     height: 40px;
     border: 2px solid white;
-
 }
+.footer {
+    height: 100px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
  
 
